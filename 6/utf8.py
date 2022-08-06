@@ -28,7 +28,7 @@ def change(path,coding):
         f.write(text)
 
 def main():
-    my_path = 'C:\\Users\\chenguo\\Documents\\txt2'
+    my_path = ''
     change_to_utf_file(my_path)
 
 if __name__ == '__main__':
